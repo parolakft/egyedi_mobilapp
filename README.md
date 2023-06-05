@@ -1,1 +1,0 @@
-# egyedi_mobilapp
