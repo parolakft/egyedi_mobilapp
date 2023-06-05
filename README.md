@@ -1,6 +1,6 @@
-# xy_mobil_app
+# Egészséges táplálkozást segítő multicsatornás kommunikációs eszköz
 
-Termékértékelő mobil applikáció.
+## Mobil applikáció
 
 Funkciói:
 - Felhasználói regisztráció.
