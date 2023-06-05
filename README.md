@@ -5,7 +5,7 @@
 Funkciói:
 - Felhasználói regisztráció.
 - Privát allergénadatok megadása.
-- Termékszűrés kategóriánkánt.
+- Termékszűrés kategóriánként.
 - Termékszűrés allergén tartalomra.
 - Összesített értékelés leadása.
 - Részletes értékelés leadás.
